@@ -85,6 +85,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "064cb1b0-29d6-cbde-937f-600cd4d370b8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Tutorial/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
     "067722cb-f10d-9622-daa8-09916eb90c71": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pipe Light.mtli.nasset.tex.nasset"
@@ -255,6 +259,14 @@
         "dependencies": [
             "46bd7987-06fc-654f-296e-670d031f6db9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "121e33c6-77a0-84c3-19b6-fede5e90d9f0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign_Lesson_1.scene.nasset",
+        "dependencies": [
+            "4dd90bd0-f90d-7054-ecca-d85a5f0a4b9a"
         ]
     },
     "12726776-3b51-2048-2632-48be5f5243d3": {
@@ -465,6 +477,14 @@
             "4c6eec76-d56f-05b6-79c8-ba61d2d7dfe5",
             "7fdb25d0-3f05-df80-b0cc-7d1546a5dde3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "252ae653-38cd-deb3-09e6-a4e9bb31b59b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Tutorial/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "064cb1b0-29d6-cbde-937f-600cd4d370b8",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "258999df-b0d9-fe58-79d1-d45c1ab6cab5": {
@@ -993,6 +1013,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4539ef05-d5c7-f238-3b77-dfee474d153e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign Lesson 1.mesh.nasset/Sign Lesson 1 Sign Lesson 1.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4ccd1f99-16d7-3c17-0fbb-9a3f1fae9dbc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "458633eb-8016-f264-165b-89d49b0388e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Exclamation.mesh.nasset/Thumbnails/Exclamation.mesh.nasset.tex.nasset"
@@ -1111,9 +1143,34 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Grass Single.mesh.nasset/Thumbnails/Grass Single.mesh.nasset.tex.nasset"
     },
+    "4ccd1f99-16d7-3c17-0fbb-9a3f1fae9dbc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Tutorial/Material Instances/Sign Lesson 1.mtli.nasset",
+        "thumbnail": "d9d05300-571b-f9da-e6b9-f62257b340dd",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "7d8ee18d-0547-7f8b-a4bb-164d615880bd"
+        ]
+    },
     "4cfb8bce-a0b0-ff5b-5920-5d37d5fb5fc3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Fence Middle.mesh.nasset/Thumbnails/Fence Middle.mesh.nasset.tex.nasset"
+    },
+    "4dd90bd0-f90d-7054-ecca-d85a5f0a4b9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign Lesson 1.mesh.nasset/Sign Lesson 1.mesh.nasset",
+        "thumbnail": "8c8723d6-6b9b-3b7e-2499-a1501027e08f",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "252ae653-38cd-deb3-09e6-a4e9bb31b59b",
+            "89c7a452-5f56-57f4-194d-b86e2665c425",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "4ccd1f99-16d7-3c17-0fbb-9a3f1fae9dbc",
+            "4539ef05-d5c7-f238-3b77-dfee474d153e"
+        ]
     },
     "4ed28da1-1a26-d3fe-95b8-fef533ca7289": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1821,6 +1878,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Tower.mesh.nasset/Thumbnails/Tower.mesh.nasset.tex.nasset"
     },
+    "7d8ee18d-0547-7f8b-a4bb-164d615880bd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Tutorial/textures/T_Sign_Help_Duplicate.tex.nasset"
+    },
     "7e027253-d22b-923a-00d4-d5818497346e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2021,6 +2082,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "89c7a452-5f56-57f4-194d-b86e2665c425": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign Lesson 1.mesh.nasset/Sign Lesson 1 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "252ae653-38cd-deb3-09e6-a4e9bb31b59b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8b0b2566-69e9-0b9b-4f45-82e492b3e5f9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Question.mesh.nasset/Thumbnails/Question.mesh.nasset.tex.nasset"
@@ -2052,6 +2125,10 @@
     "8c770127-a9bb-5eed-4efc-dc8b6f75e9a0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Door.mesh.nasset/Thumbnails/Door.mesh.nasset.tex.nasset"
+    },
+    "8c8723d6-6b9b-3b7e-2499-a1501027e08f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign Lesson 1.mesh.nasset/Thumbnails/Sign Lesson 1.mesh.nasset.tex.nasset"
     },
     "8d76f3a9-1a5e-d985-120f-ba95e2175b3d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2343,7 +2420,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
     },
     "9db2f401-dc6e-1aed-e1b3-140f2b8f1373": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3240,6 +3317,10 @@
             "c2e38ce3-85be-c8c0-dc2d-5c004e723114",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d9d05300-571b-f9da-e6b9-f62257b340dd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Tutorial/Material Instances/Thumbnails/Sign Lesson 1.mtli.nasset.tex.nasset"
     },
     "da6e8652-d0d4-dbc7-d0d6-3d7471df5b36": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
