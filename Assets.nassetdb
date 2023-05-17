@@ -356,7 +356,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Jimmy/Onboard Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
     },
     "19c631dc-6635-3afb-04a3-69e136e7845b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
