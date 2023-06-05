@@ -197,6 +197,10 @@
             "71bc5082-1964-6b45-a90f-e4d74859f261"
         ]
     },
+    "0d875bdd-cab5-df61-1bff-56342db80148": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/Eyes.mtli.nasset.tex.nasset"
+    },
     "0d94912e-a1cb-3650-f7d6-62b4c4a400b1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -304,6 +308,7 @@
     "1668ba45-a7f1-2868-8967-b0dbe63705b4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Main.mtli.nasset",
+        "thumbnail": "9e1bca5f-4cde-f4a8-715e-50622c740fba",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -389,9 +394,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "1c3c317a-907f-8c46-7935-a7c16594fd6c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/Secondary.mtli.nasset.tex.nasset"
+    },
     "1d14499e-e1fb-73f4-6abf-79d1da499674": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Eyes.mtli.nasset",
+        "thumbnail": "0d875bdd-cab5-df61-1bff-56342db80148",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -489,6 +499,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "257ff977-4f1d-142b-7947-75b362ab6ca8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "258999df-b0d9-fe58-79d1-d45c1ab6cab5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -589,6 +603,7 @@
     "29276659-62b1-952c-b34f-7b9c1b9b611a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Black.mtli.nasset",
+        "thumbnail": "ab920dc0-f519-0621-8cf4-8ddf73543f31",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -648,6 +663,10 @@
     "2c406bde-2510-52b7-5520-f7fd48a0291d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Rock Grey.mtli.nasset.tex.nasset"
+    },
+    "2cd3c3ac-2043-e47f-58d3-2d041dae4aac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/Skin.mtli.nasset.tex.nasset"
     },
     "2d6a4e36-4bb0-cf57-8ab8-a6237cf531e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -822,6 +841,7 @@
     "396cb842-9a68-d8ac-9746-0a7d4d641b46": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Secondary.mtli.nasset",
+        "thumbnail": "1c3c317a-907f-8c46-7935-a7c16594fd6c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1572,6 +1592,7 @@
     "6d3934e5-dabb-457b-e7e8-419ba6925ebe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/White.mtli.nasset",
+        "thumbnail": "257ff977-4f1d-142b-7947-75b362ab6ca8",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1707,6 +1728,7 @@
     "73f0f69d-cb24-d3f9-4093-c1754614c08a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Skin.mtli.nasset",
+        "thumbnail": "2cd3c3ac-2043-e47f-58d3-2d041dae4aac",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2423,7 +2445,7 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+        "thumbnail": "d3238708-0f67-29b2-67c8-0d8693835786"
     },
     "9db2f401-dc6e-1aed-e1b3-140f2b8f1373": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2432,6 +2454,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "9e1bca5f-4cde-f4a8-715e-50622c740fba": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/Main.mtli.nasset.tex.nasset"
     },
     "9e3bc1ea-7c1a-4bc9-ebf2-80255fce0a5f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2598,6 +2624,10 @@
             "429c1f2d-8267-1b2d-fdf7-624660e3d0cb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "ab920dc0-f519-0621-8cf4-8ddf73543f31": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
     },
     "ab92cd78-c110-ff13-d33d-052fcd282b00": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3118,6 +3148,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/SK Jimmy.mesh.nasset",
+        "thumbnail": "e75c1e4b-7acb-26f1-604a-bc9a40c91000",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3200,6 +3231,10 @@
             "aa48a89b-088f-776e-d331-9b2cc600afc2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d3238708-0f67-29b2-67c8-0d8693835786": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/M_Skybox.mtli.nasset.tex.nasset"
     },
     "d3bc1feb-7b03-bdb4-4af7-f9913943ae12": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3476,6 +3511,10 @@
     "e7046209-72d6-0edd-f98a-545640de8441": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.mesh.nasset/Thumbnails/Plant Large.mesh.nasset.tex.nasset"
+    },
+    "e75c1e4b-7acb-26f1-604a-bc9a40c91000": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Jimmy/SK_Jimmy.scene.nasset/SK Jimmy.mesh.nasset/Thumbnails/SK Jimmy.mesh.nasset.tex.nasset"
     },
     "e75c9e52-c03a-f648-c1ba-13f2797c90c9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
