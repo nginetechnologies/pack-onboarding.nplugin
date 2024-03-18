@@ -931,6 +931,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3e6adb98-9642-0ce9-0602-008f792c4618": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001 Green Bright.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "bc6ef79a-2df5-6995-b79b-37320e668456",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "3e6cba36-15ec-4e84-6e74-2d3fe269df55": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Grass 2.mesh.nasset/Thumbnails/Grass 2.mesh.nasset.tex.nasset"
@@ -1215,6 +1227,13 @@
     "514e6ae1-8538-037e-6907-4ee5a0237390": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Spikes.mesh.nasset/Thumbnails/Spikes.mesh.nasset.tex.nasset"
+    },
+    "51cadc0a-440a-976f-b277-e8241707d784": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Small.001.mesh.nasset/Plant Small.001.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "51e27d52-1e1d-d1f8-05ee-ae00b4b56493": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1660,6 +1679,13 @@
         "thumbnail": "2c406bde-2510-52b7-5520-f7fd48a0291d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "72131816-119e-aeb6-f823-9e42eda7dc7a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "721bad83-dc4e-6c83-366a-907cf6743ab2": {
@@ -3045,6 +3071,18 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c5bcb941-7249-e01b-ac21-ba338a65b46e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001 Green Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "429c1f2d-8267-1b2d-fdf7-624660e3d0cb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c6035b1f-4f23-7c49-656c-7d618614a5e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3374,6 +3412,18 @@
         ],
         "dependencies": [
             "ba65c7a4-af3e-701b-82f1-0dc26d8fab8e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "db835cb2-b22a-413b-d4f2-7995438110b5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Small.001.mesh.nasset/Plant Small.001 Green Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "429c1f2d-8267-1b2d-fdf7-624660e3d0cb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
