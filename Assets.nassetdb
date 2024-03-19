@@ -29,6 +29,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Hazard Cylinder.mesh.nasset/Thumbnails/Hazard Cylinder.mesh.nasset.tex.nasset"
     },
+    "0213f5c1-9a15-4396-9023-f078447fd135": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Punch.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
     "02772e45-ecc4-59fb-e48b-3585153019f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Fence Corner.mesh.nasset/Thumbnails/Fence Corner.mesh.nasset.tex.nasset"
@@ -124,6 +132,11 @@
             "861a9afd-e9cb-a823-9915-eebc8c6e4376",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "098f3337-3bf6-c77e-f914-16c55785ac57": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Yes.anim.nasset"
     },
     "0a3e209c-f9e4-9f58-5f7c-847cd11dcf05": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -305,6 +318,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "15056d57-575e-3193-1ae9-ceff7d2e736f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Jump.anim.nasset"
+    },
     "1668ba45-a7f1-2868-8967-b0dbe63705b4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Jimmy/Material Instances/Main.mtli.nasset",
@@ -316,6 +334,14 @@
     "169e35c8-b6a4-2ab1-7ef9-630d621b2eaf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Bricks.mesh.nasset/Thumbnails/Bricks.mesh.nasset.tex.nasset"
+    },
+    "16bad802-e689-4530-87ae-0bc8025466ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Idle_Gun.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
     },
     "16efb4cb-e69f-64d0-2570-24879e37631e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -365,6 +391,9 @@
         "tags": [
             "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
             "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "cc9d547d-62d5-97e7-35a3-87305260a05b"
         ]
     },
     "19c631dc-6635-3afb-04a3-69e136e7845b": {
@@ -777,6 +806,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "358fd1ab-df00-4721-bfcb-71d6c5451af5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Duck.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
     "35c6ead2-37f1-9c5b-fae2-53623d25f418": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -800,6 +837,11 @@
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
             "6d3934e5-dabb-457b-e7e8-419ba6925ebe"
         ]
+    },
+    "371a3e2e-316d-206a-4a11-5b1778c58299": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Hit React.anim.nasset"
     },
     "37dcef39-4ba2-5001-3594-fb9b780bf9a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -928,18 +970,6 @@
         "dependencies": [
             "432eb2aa-d300-84ff-524a-4d7618bb2137",
             "1e5346bf-cf46-f744-5cac-27fff88c5d87",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "3e6adb98-9642-0ce9-0602-008f792c4618": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001 Green Bright.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "bc6ef79a-2df5-6995-b79b-37320e668456",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1224,16 +1254,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Gem Pink.mtli.nasset.tex.nasset"
     },
+    "50fc1c6d-677e-285e-595a-4a7fd8afd1ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite Front.anim.nasset"
+    },
     "514e6ae1-8538-037e-6907-4ee5a0237390": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Spikes.mesh.nasset/Thumbnails/Spikes.mesh.nasset.tex.nasset"
-    },
-    "51cadc0a-440a-976f-b277-e8241707d784": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Small.001.mesh.nasset/Plant Small.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ]
     },
     "51e27d52-1e1d-d1f8-05ee-ae00b4b56493": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1318,7 +1346,7 @@
     "59aa6dc7-64dc-4242-9afb-412812a96a9d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Jump_End.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Jump_End.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -1361,6 +1389,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5ad33045-a581-49d2-b965-f7f3ac66f9d4": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Death.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
     "5ad92756-05d3-4533-95c9-78f6ff549bd3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Fruit.mesh.nasset/Thumbnails/Fruit.mesh.nasset.tex.nasset"
@@ -1382,6 +1418,11 @@
             "6fe7eee7-f3bd-aead-573c-37e71fa74318",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5d6d78b7-5b52-a67e-ec06-e5150f3422c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Dance.anim.nasset"
     },
     "5d83bc7c-941f-eff0-d95a-91055fb27eb4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1578,7 +1619,7 @@
     "6c1518b9-eebb-4090-b4d3-6654aa36351d": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Jump_Loop.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Jump_Loop.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -1661,6 +1702,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "714aff33-c407-8baf-a18f-ccd67063b658": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Flying.anim.nasset"
+    },
     "71bc5082-1964-6b45-a90f-e4d74859f261": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1679,13 +1725,6 @@
         "thumbnail": "2c406bde-2510-52b7-5520-f7fd48a0291d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "72131816-119e-aeb6-f823-9e42eda7dc7a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "721bad83-dc4e-6c83-366a-907cf6743ab2": {
@@ -1735,7 +1774,7 @@
     "73295854-4799-4781-a699-f40dc3e606e0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Jump_Start.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Jump_Start.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -1807,6 +1846,16 @@
     "768c5635-f3a9-2949-2608-53ed0c57455e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Pipe Straight.mesh.nasset/Thumbnails/Pipe Straight.mesh.nasset.tex.nasset"
+    },
+    "76e75386-8f2b-2937-e4da-6feae2446678": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Idle.anim.nasset"
+    },
+    "7708c482-f8ef-d2af-89d7-25e6da7fb6d6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Bite Front.anim.nasset"
     },
     "7799f878-4a5c-d92f-a113-82de30cfb860": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1884,6 +1933,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Flag.mtli.nasset.tex.nasset"
     },
+    "7bc4d29f-f4dd-9212-97c5-5b770596bee5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Walk.anim.nasset"
+    },
     "7bc684bd-375f-29af-0e6c-80a31f68055c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Red.mtli.nasset",
@@ -1918,6 +1972,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Star Outline.mesh.nasset/Thumbnails/Star Outline.mesh.nasset.tex.nasset"
     },
+    "7cf6db9d-7484-4126-95ae-bef32f1f62d5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Run_Gun.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
     "7cfd028b-3981-eb90-c57e-c57c659e7236": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1949,6 +2011,11 @@
             "95cab333-ee66-10a5-a1b1-c3537e9cf8f2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7e1d571b-b06c-6d21-479f-ff78a656b56b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Death.anim.nasset"
     },
     "7e2ae510-6e62-66f2-ee18-5410e538b47e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2286,6 +2353,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Goal Flag.mesh.nasset/Thumbnails/Goal Flag.mesh.nasset.tex.nasset"
     },
+    "9414e1c4-4e1a-4c52-a254-603f0b34a8cb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Run_Shoot.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
     "9484092b-e7ad-666a-8023-a75e4abb130b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2349,6 +2424,11 @@
             "94d9d163-5bc5-0a5c-4b95-f6383b39e59f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "96ff1959-51b2-2ace-4c63-b651f87bb52a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Hit React.anim.nasset"
     },
     "9743a855-ee5c-b5dc-de0c-389f0a8b3b19": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2432,15 +2512,15 @@
             "868cfdb8-ef38-f968-c74c-19277fe4ad74",
             "487bcca7-b847-3fab-f52a-a7b771922e31",
             "0d43943a-82d5-9550-686f-a1281f80115e",
+            "cd1dc6ba-69f8-6ab3-f40c-2ba30558074c",
+            "3a55615d-5f97-9a5b-4940-4d46a96cbf6b",
+            "228888f7-1fc3-d4d0-02a8-01dbe4b591c4",
             "5768e7cb-c65c-6c2e-fe20-8afed16efef7",
             "f8065084-b5bf-b577-7bff-e708135f54dc",
             "564144d4-62d2-80bf-e7e3-84e548c0ae8b",
-            "3a55615d-5f97-9a5b-4940-4d46a96cbf6b",
-            "228888f7-1fc3-d4d0-02a8-01dbe4b591c4",
             "f134f59e-839a-4c39-25d0-6a3c3c8344a2",
             "d7389a8d-affa-9fa8-5135-4b6f23960de5",
             "d79d1976-7acb-251a-8b02-30a77ef0191c",
-            "cd1dc6ba-69f8-6ab3-f40c-2ba30558074c",
             "721bad83-dc4e-6c83-366a-907cf6743ab2"
         ]
     },
@@ -2493,6 +2573,11 @@
     "9e3bc1ea-7c1a-4bc9-ebf2-80255fce0a5f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Heart Outline.mesh.nasset/Thumbnails/Heart Outline.mesh.nasset.tex.nasset"
+    },
+    "9f67d279-1fba-2943-2364-c81af882a08e": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies No.anim.nasset"
     },
     "9f79a270-95c8-49be-3612-f5fbd65fa147": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2622,6 +2707,14 @@
             "c2e38ce3-85be-c8c0-dc2d-5c004e723114",
             "b582f5cf-44bd-5b0d-5a88-a64c472a5f8a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a9cba63c-049e-4f85-883c-b06590fd7ae3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Yes.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "a9fab555-f8ea-9df0-6141-c38dd962bc07": {
@@ -2796,6 +2889,11 @@
             "46bd7987-06fc-654f-296e-670d031f6db9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "b28666ce-1e1f-ddfd-e49b-c70e578a5823": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite In Place.anim.nasset"
     },
     "b2e1e264-98a1-affc-dd80-09e903e0a816": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3071,18 +3169,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "c5bcb941-7249-e01b-ac21-ba338a65b46e": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Large.001.mesh.nasset/Plant Large.001 Green Light.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "429c1f2d-8267-1b2d-fdf7-624660e3d0cb",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "c6035b1f-4f23-7c49-656c-7d618614a5e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3151,6 +3237,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c89cb676-3d67-ee02-c0cb-405702f5344a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Death.anim.nasset"
+    },
     "c9257fc9-2ab3-98a2-e96e-9cea15bfca6c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Cannon.mesh.nasset/Thumbnails/Cannon.mesh.nasset.tex.nasset"
@@ -3182,7 +3273,7 @@
     "ca7ca704-ffb7-4598-9cde-818de96486c2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Walk.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Walk.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -3249,6 +3340,14 @@
         "dependencies": [
             "e14377e9-becb-7176-f969-f8606df620ac",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d091ce27-e132-4939-82d2-6f336dc2af0f": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Walk_Gun.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "d0a238a8-320c-fca9-b361-dbbd4139fda2": {
@@ -3415,18 +3514,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "db835cb2-b22a-413b-d4f2-7995438110b5": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Onboarding.scene.nasset/Plant Small.001.mesh.nasset/Plant Small.001 Green Light.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "429c1f2d-8267-1b2d-fdf7-624660e3d0cb",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "dc239896-ece2-f44a-67ca-6a33f1cf62e1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
@@ -3525,6 +3612,14 @@
             "c85fa99f-8a14-b516-3cc3-3b20df91b9ae",
             "08a84a19-aae5-b702-135c-59466a8ae6bb",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e296404c-10ce-441b-b4b7-9048fd8b44ec": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_No.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "e2b4934d-ba0d-ef7a-72c6-848a488b8074": {
@@ -3631,6 +3726,14 @@
         "dependencies": [
             "7bc684bd-375f-29af-0e6c-80a31f68055c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eccc3c7c-cbe7-4f1b-a628-14b7fed86746": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Hit_React.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "ed64ab1b-9c45-bd3f-c8d3-65db54103b1f": {
@@ -3776,7 +3879,7 @@
     "f290dd09-2e89-4f2b-8f61-7703045e81de": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Run.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Run.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -3806,7 +3909,7 @@
     "f4d053d6-6296-441e-8c54-2fd8102cef09": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Jimmy/Jimmy_Idle.anim.nasset",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Idle.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
@@ -3861,6 +3964,14 @@
         "dependencies": [
             "1d14499e-e1fb-73f4-6abf-79d1da499674",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f7272df5-7a3c-4905-a7ca-034c86bdd34a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Idle_Shoot.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "f772650d-55a6-0fc8-715b-a5823115db62": {
@@ -3967,6 +4078,14 @@
         "dependencies": [
             "7bc684bd-375f-29af-0e6c-80a31f68055c",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fe06d2ec-17f1-4af7-98f1-bd7536b65854": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Jimmy/Animations/Jimmy_Wave.anim.nasset",
+        "dependencies": [
+            "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
         ]
     },
     "ff95ad2e-d0db-42ca-a7be-091284dd0b50": {

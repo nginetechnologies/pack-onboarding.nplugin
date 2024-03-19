@@ -41,11 +41,11 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -5,
-                            0.75
+                            -3,
+                            1
                         ],
                         "rotation": [
-                            -50.0,
+                            0.0,
                             0.0,
                             0.0
                         ]
@@ -62,7 +62,7 @@
                         },
                         {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
-                            "rotationSpeed": 100.0,
+                            "rotationSpeed": 5.0,
                             "positionSpeed": 3.0,
                             "verticalStep": 1.5
                         }
@@ -180,5 +180,8 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "194661d1-0651-499c-afc1-5dc0de75863b"
     },
-    "thumbnailGuid": "558bf98c-2dba-42ab-9a4c-a8ce6baf4952"
+    "thumbnailGuid": "558bf98c-2dba-42ab-9a4c-a8ce6baf4952",
+    "dependencies": [
+        "cc9d547d-62d5-97e7-35a3-87305260a05b"
+    ]
 }
