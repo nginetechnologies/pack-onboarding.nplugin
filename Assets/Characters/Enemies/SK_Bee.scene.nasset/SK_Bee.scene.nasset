@@ -1,0 +1,34 @@
+{
+    "guid": "d0300972-b0e7-5d69-735a-a6cff0054243",
+    "source": "../SK_Bee.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "790eb301-e60a-c273-78d7-8dc1366d283f",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Bee"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "92867017-69a4-0a16-e865-78775f4274ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Bee"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e517ed6c-784c-b560-27d1-7ae4d938705a"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d0300972-b0e7-5d69-735a-a6cff0054243"
+    },
+    "dependencies": [
+        "e517ed6c-784c-b560-27d1-7ae4d938705a"
+    ]
+}

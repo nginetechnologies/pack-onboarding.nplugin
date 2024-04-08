@@ -1,0 +1,205 @@
+{
+    "guid": "e517ed6c-784c-b560-27d1-7ae4d938705a",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4b2f446c-f94b-7770-24f1-2de4564fa5e5",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "69f62c41-cbe7-bd7a-95cc-6a1fb3d9513d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Bee Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "eff0671c-a7cc-6d69-c667-f1476199c56a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e3bbe9c3-ef88-bdcc-669c-293e152b966b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Main 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2a63a016-9027-1c03-cf22-a31107dc1190",
+                                "material_instance": "7da53eb8-ec72-e5a2-1b6c-310b546a9ba2"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2861d1df-ee8a-e3bb-3184-dc7fafbbf5f8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "56f45af8-fda0-9fcc-e55c-8592efa1587d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4c803732-ee06-25d5-f744-dacc666d12c1",
+                                "material_instance": "9305bd53-f971-3379-d38a-4edbc7bf7f45"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "37510463-3992-690a-fb1c-69249045c819"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "3dafca1e-ca14-b233-a356-e87be614e461",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Eyes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f8711128-c219-4f4b-55cf-52a07fc81cd2",
+                                "material_instance": "e4aae190-b106-0cbb-9470-7d27fb01af43"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e30cbec2-0658-37a3-c232-a5eb7cddcb8e"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "71701fcf-de81-c7f4-66bf-237ba773371d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Wings"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fc09ec93-6bd3-f98c-2f94-df0bd1d22ca2",
+                                "material_instance": "3f7c27fa-adc6-72b7-3331-9f097d999f12"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "09412da2-0229-4eb8-54c4-9baead386b2d"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "183dcdbd-f9d4-b688-3653-a032aba8d4fb",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Tongue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "09db583b-8425-6359-6588-5d8fdd04e660",
+                                "material_instance": "3af469f6-33ee-0596-979b-167f568a65f1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bfb16f70-40ec-07ae-1d70-5c063dedc9f8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bfb38eb1-b802-7d96-5564-2da079d7bdc4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Bee Bee Teeth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "aeaf7f33-bc69-9f63-8421-d400ef91f82d",
+                                "material_instance": "d65cd864-e691-6330-024f-d95bd335f46d"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "0acbd42a-80cd-a1f8-9ca3-1e30d04741bf"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "a8c5c098-f937-b28d-00fa-5878f2f6c912"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e517ed6c-784c-b560-27d1-7ae4d938705a"
+    },
+    "dependencies": [
+        "7da53eb8-ec72-e5a2-1b6c-310b546a9ba2",
+        "2a63a016-9027-1c03-cf22-a31107dc1190",
+        "2861d1df-ee8a-e3bb-3184-dc7fafbbf5f8",
+        "9305bd53-f971-3379-d38a-4edbc7bf7f45",
+        "4c803732-ee06-25d5-f744-dacc666d12c1",
+        "37510463-3992-690a-fb1c-69249045c819",
+        "e4aae190-b106-0cbb-9470-7d27fb01af43",
+        "f8711128-c219-4f4b-55cf-52a07fc81cd2",
+        "e30cbec2-0658-37a3-c232-a5eb7cddcb8e",
+        "3f7c27fa-adc6-72b7-3331-9f097d999f12",
+        "fc09ec93-6bd3-f98c-2f94-df0bd1d22ca2",
+        "09412da2-0229-4eb8-54c4-9baead386b2d",
+        "3af469f6-33ee-0596-979b-167f568a65f1",
+        "09db583b-8425-6359-6588-5d8fdd04e660",
+        "bfb16f70-40ec-07ae-1d70-5c063dedc9f8",
+        "d65cd864-e691-6330-024f-d95bd335f46d",
+        "aeaf7f33-bc69-9f63-8421-d400ef91f82d",
+        "0acbd42a-80cd-a1f8-9ca3-1e30d04741bf",
+        "a8c5c098-f937-b28d-00fa-5878f2f6c912"
+    ]
+}
