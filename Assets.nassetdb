@@ -143,11 +143,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "098f3337-3bf6-c77e-f914-16c55785ac57": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Yes.anim.nasset"
-    },
     "09db583b-8425-6359-6588-5d8fdd04e660": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -349,11 +344,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "15056d57-575e-3193-1ae9-ceff7d2e736f": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Jump.anim.nasset"
     },
     "1668ba45-a7f1-2868-8967-b0dbe63705b4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -860,6 +850,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "341f1071-cd04-409c-9a8d-fe4334307fec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Thumbnails/Goblin.scene.nasset.tex.nasset"
+    },
     "358fd1ab-df00-4721-bfcb-71d6c5451af5": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -891,11 +885,6 @@
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75",
             "6d3934e5-dabb-457b-e7e8-419ba6925ebe"
         ]
-    },
-    "371a3e2e-316d-206a-4a11-5b1778c58299": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Hit React.anim.nasset"
     },
     "37510463-3992-690a-fb1c-69249045c819": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
@@ -1189,6 +1178,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "45f63c87-79c4-412d-a02e-21c7c4c6fe3d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Player_Scripts/Skull.scene.nasset",
+        "thumbnail": "4dc5eaf9-8c1c-4857-a524-99474f577b7a",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "46bd7987-06fc-654f-296e-670d031f6db9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood.mtli.nasset",
@@ -1255,6 +1254,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4a463426-1ad3-4526-8d5d-a6417d7379ef": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Death.anim.nasset"
+    },
     "4a724ceb-d21b-7aae-2e4e-d1c2d1102701": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Onboard_Enviro.tex.nasset"
@@ -1312,6 +1316,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Fence Middle.mesh.nasset/Thumbnails/Fence Middle.mesh.nasset.tex.nasset"
     },
+    "4dc5eaf9-8c1c-4857-a524-99474f577b7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Thumbnails/Skull.scene.nasset.tex.nasset"
+    },
     "4dd90bd0-f90d-7054-ecca-d85a5f0a4b9a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1343,11 +1351,6 @@
     "50befa13-8722-aacb-c458-39d862406ec4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Gem Pink.mtli.nasset.tex.nasset"
-    },
-    "50fc1c6d-677e-285e-595a-4a7fd8afd1ef": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite Front.anim.nasset"
     },
     "514e6ae1-8538-037e-6907-4ee5a0237390": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1509,11 +1512,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5d6d78b7-5b52-a67e-ec06-e5150f3422c0": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Dance.anim.nasset"
-    },
     "5d83bc7c-941f-eff0-d95a-91055fb27eb4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Tower Door.mesh.nasset/Thumbnails/Tower Door.mesh.nasset.tex.nasset"
@@ -1624,6 +1622,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "640a8ad7-2088-426a-9e79-9a10763e3b7b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71"
+        ]
+    },
     "643a6e79-f8d7-525a-4857-2ee03a5263a9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Main.mtli.nasset",
@@ -1728,6 +1734,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6c500492-f84e-4b69-896b-a21338e6b634": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite Front.anim.nasset"
+    },
     "6ce88baf-8cab-3017-8ce7-9a46344cfb01": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1792,11 +1803,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "714aff33-c407-8baf-a18f-ccd67063b658": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Flying.anim.nasset"
-    },
     "71bc5082-1964-6b45-a90f-e4d74859f261": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1860,6 +1866,11 @@
             "dc239896-ece2-f44a-67ca-6a33f1cf62e1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7319cc5d-4ba4-46b5-bbfc-893b729e7c90": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Hit React.anim.nasset"
     },
     "73295854-4799-4781-a699-f40dc3e606e0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1937,16 +1948,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Pipe Straight.mesh.nasset/Thumbnails/Pipe Straight.mesh.nasset.tex.nasset"
     },
-    "76e75386-8f2b-2937-e4da-6feae2446678": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Idle.anim.nasset"
-    },
-    "7708c482-f8ef-d2af-89d7-25e6da7fb6d6": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Bite Front.anim.nasset"
-    },
     "7799f878-4a5c-d92f-a113-82de30cfb860": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2023,11 +2024,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Flag.mtli.nasset.tex.nasset"
     },
-    "7bc4d29f-f4dd-9212-97c5-5b770596bee5": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Walk.anim.nasset"
-    },
     "7bc684bd-375f-29af-0e6c-80a31f68055c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Red.mtli.nasset",
@@ -2086,6 +2082,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Tower.mesh.nasset/Thumbnails/Tower.mesh.nasset.tex.nasset"
     },
+    "7d77422f-81f1-4527-b44e-ffad60e51391": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Idle.anim.nasset"
+    },
     "7d8ee18d-0547-7f8b-a4bb-164d615880bd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Tutorial/textures/T_Sign_Help_Duplicate.tex.nasset"
@@ -2109,11 +2110,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7e1d571b-b06c-6d21-479f-ff78a656b56b": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Death.anim.nasset"
-    },
     "7e2ae510-6e62-66f2-ee18-5410e538b47e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Tree.mesh.nasset/Thumbnails/Tree.mesh.nasset.tex.nasset"
@@ -2131,6 +2127,11 @@
             "0c4d0cf8-2368-5b22-d406-d0f2aaab5206",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7fbc203d-a5e6-4b95-a7f1-52ca23d84002": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Yes.anim.nasset"
     },
     "7fdb25d0-3f05-df80-b0cc-7d1546a5dde3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2318,6 +2319,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Question.mesh.nasset/Thumbnails/Question.mesh.nasset.tex.nasset"
     },
+    "8bfb7efe-2435-417f-92fb-80aabe862420": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/simple_move.script.nasset"
+    },
     "8c146a9e-2809-b2c8-6307-0f4012fe1c95": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2349,6 +2354,11 @@
     "8c8723d6-6b9b-3b7e-2499-a1501027e08f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Tutorial/Sign_Lesson_1.scene.nasset/Sign Lesson 1.mesh.nasset/Thumbnails/Sign Lesson 1.mesh.nasset.tex.nasset"
+    },
+    "8d2a8f58-346a-4e1e-8684-45fa232244ec": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Dance.anim.nasset"
     },
     "8d76f3a9-1a5e-d985-120f-ba95e2175b3d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2529,11 +2539,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "96ff1959-51b2-2ace-4c63-b651f87bb52a": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Hit React.anim.nasset"
-    },
     "9743a855-ee5c-b5dc-de0c-389f0a8b3b19": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2644,6 +2649,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9830b697-62c0-4daf-9bfa-6b2fa76d23dd": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Hit React.anim.nasset"
+    },
     "9a6b074f-94ea-1bb5-6329-c7aa430196de": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2678,11 +2688,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Heart Outline.mesh.nasset/Thumbnails/Heart Outline.mesh.nasset.tex.nasset"
     },
-    "9f67d279-1fba-2943-2364-c81af882a08e": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies No.anim.nasset"
-    },
     "9f79a270-95c8-49be-3612-f5fbd65fa147": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2710,6 +2715,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "a67c2eae-4b6b-4299-965e-9be124244de3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Flying.anim.nasset"
     },
     "a7179c4f-f068-45d2-a063-aa7c43cb996c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2963,6 +2973,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ae6e8623-1a29-4556-98ed-cdf0abf1c0a3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies No.anim.nasset"
+    },
     "aeaf7f33-bc69-9f63-8421-d400ef91f82d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2974,6 +2989,11 @@
             "d65cd864-e691-6330-024f-d95bd335f46d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "afc97496-50b7-4ea1-a876-7091aa81f615": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Death.anim.nasset"
     },
     "b09eabbe-cbd3-9696-9f1f-c53056e6c6b4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3010,11 +3030,6 @@
             "46bd7987-06fc-654f-296e-670d031f6db9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "b28666ce-1e1f-ddfd-e49b-c70e578a5823": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite In Place.anim.nasset"
     },
     "b2e1e264-98a1-affc-dd80-09e903e0a816": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3136,6 +3151,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "ba8996ed-b358-40af-ab9c-94be90d1bf45": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Thumbnails/Bee.scene.nasset.tex.nasset"
+    },
     "ba8a83ad-ac95-4409-b55e-ecca7d99d709": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Onboarding_Thumb.tex.nasset"
@@ -3190,6 +3209,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Arrow Up.mesh.nasset/Thumbnails/Arrow Up.mesh.nasset.tex.nasset"
     },
+    "bf62152a-6fa4-4285-bf5b-36c4e02a1ac8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Walk.anim.nasset"
+    },
     "bf7178a4-b6f8-36e6-e4a3-8b899da81f1e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Dirt Lighter.mtli.nasset.tex.nasset"
@@ -3231,6 +3255,11 @@
             "c1c4c077-9775-a300-724f-5328da613c3f",
             "237016ae-e5cd-1bb3-5759-a7a47cdc3aba"
         ]
+    },
+    "c149f721-1ee7-473b-8850-1e8fc03427c2": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Bite Front.anim.nasset"
     },
     "c1c4c077-9775-a300-724f-5328da613c3f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3300,6 +3329,11 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "c55ea1c7-e343-43e1-8e84-a7d1ccb4a6ad": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Bite In Place.anim.nasset"
+    },
     "c6035b1f-4f23-7c49-656c-7d618614a5e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3368,11 +3402,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c89cb676-3d67-ee02-c0cb-405702f5344a": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Enemies/Animations/Bee/Bee Death.anim.nasset"
-    },
     "c9257fc9-2ab3-98a2-e96e-9cea15bfca6c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Cannon.mesh.nasset/Thumbnails/Cannon.mesh.nasset.tex.nasset"
@@ -3407,6 +3436,16 @@
         "path": "Assets/Characters/Jimmy/Animations/Jimmy_Walk.anim.nasset",
         "dependencies": [
             "ac1fe007-b1a0-dec8-2e12-19e49c450e75"
+        ]
+    },
+    "cb89ad45-97c6-44f9-8849-60083d8d91fe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Player_Scripts/Crab.scene.nasset",
+        "thumbnail": "f92a8a94-81a6-4870-8bc4-102211801765",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
         ]
     },
     "cc9d547d-62d5-97e7-35a3-87305260a05b": {
@@ -3453,6 +3492,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cd750bb9-10a9-4b59-8b0e-1721908fb2e8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Player_Scripts/Goblin.scene.nasset",
+        "thumbnail": "341f1071-cd04-409c-9a8d-fe4334307fec",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ]
+    },
     "cdefa571-e2ac-cee1-65d8-f1e263dc9478": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Onboarding.scene.nasset/Ground 10x5.mesh.nasset/Thumbnails/Ground 10x5.mesh.nasset.tex.nasset"
@@ -3461,9 +3510,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Blue.mtli.nasset.tex.nasset"
     },
+    "cefcdfa8-e5c9-407c-b9c4-5960aabce7a9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Enemies/Animations/Enemies_Shared/Enemies Jump.anim.nasset"
+    },
     "d0300972-b0e7-5d69-735a-a6cff0054243": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "path": "Assets/Characters/Enemies/SK_Bee.scene.nasset/SK_Bee.scene.nasset"
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/SK_Bee.scene.nasset/SK_Bee.scene.nasset",
+        "dependencies": [
+            "e517ed6c-784c-b560-27d1-7ae4d938705a"
+        ]
     },
     "d03498a8-61c4-e102-8aad-abbec1d24d8f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3811,9 +3869,31 @@
     },
     "e517ed6c-784c-b560-27d1-7ae4d938705a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Characters/Enemies/SK_Bee.scene.nasset/SK Bee.mesh.nasset/SK Bee.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7da53eb8-ec72-e5a2-1b6c-310b546a9ba2",
+            "2a63a016-9027-1c03-cf22-a31107dc1190",
+            "2861d1df-ee8a-e3bb-3184-dc7fafbbf5f8",
+            "9305bd53-f971-3379-d38a-4edbc7bf7f45",
+            "4c803732-ee06-25d5-f744-dacc666d12c1",
+            "37510463-3992-690a-fb1c-69249045c819",
+            "e4aae190-b106-0cbb-9470-7d27fb01af43",
+            "f8711128-c219-4f4b-55cf-52a07fc81cd2",
+            "e30cbec2-0658-37a3-c232-a5eb7cddcb8e",
+            "3f7c27fa-adc6-72b7-3331-9f097d999f12",
+            "fc09ec93-6bd3-f98c-2f94-df0bd1d22ca2",
+            "09412da2-0229-4eb8-54c4-9baead386b2d",
+            "3af469f6-33ee-0596-979b-167f568a65f1",
+            "09db583b-8425-6359-6588-5d8fdd04e660",
+            "bfb16f70-40ec-07ae-1d70-5c063dedc9f8",
+            "d65cd864-e691-6330-024f-d95bd335f46d",
+            "aeaf7f33-bc69-9f63-8421-d400ef91f82d",
+            "0acbd42a-80cd-a1f8-9ca3-1e30d04741bf",
+            "a8c5c098-f937-b28d-00fa-5878f2f6c912"
         ]
     },
     "e5c30243-50ba-d0eb-564c-e4e4937fd87a": {
@@ -3998,6 +4078,19 @@
             "aa48a89b-088f-776e-d331-9b2cc600afc2",
             "b09eabbe-cbd3-9696-9f1f-c53056e6c6b4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f0373367-c7b8-4ee4-84be-57d31511434e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Enemies/Player_Scripts/Bee.scene.nasset",
+        "thumbnail": "ba8996ed-b358-40af-ab9c-94be90d1bf45",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "e517ed6c-784c-b560-27d1-7ae4d938705a"
         ]
     },
     "f134f59e-839a-4c39-25d0-6a3c3c8344a2": {
@@ -4191,6 +4284,10 @@
             "e4aae190-b106-0cbb-9470-7d27fb01af43",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f92a8a94-81a6-4870-8bc4-102211801765": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Enemies/Thumbnails/Crab.scene.nasset.tex.nasset"
     },
     "f996580f-86db-829f-c6ed-e0a6b9e1a30a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
