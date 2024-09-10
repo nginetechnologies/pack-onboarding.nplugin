@@ -36,7 +36,7 @@
                 },
                 {
                     "typeGuid": "ee97e36e-3e03-45ba-9bd2-8734e32dcb8e",
-                    "maximum": 3,
+                    "maximum": 1,
                     "minimum": 0
                 },
                 {
